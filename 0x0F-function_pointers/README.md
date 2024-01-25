@@ -1,1 +1,1 @@
-This is readme file for function pointers
+This is for function pointers
